@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJE7GwAqerIp5OFjZIwy6/t95JLiq5GAy7aCrL/jaOfhoNhRRzmG5hbNtxFne0mKQo502ZTP0qk1UWmdJ8PpGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vivek.Jha\\OneDrive - Solera Holdings, Inc\\Documents\\FunWithCode\\Task_Manager\\TaskBoard\\TaskBoard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vivek.Jha\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.autopoint.com:8181/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
